@@ -1,0 +1,18 @@
+#homepage {
+	background-color: transparent!important;
+	width: 800px;
+	font-size: 16px;
+	height: 600px;
+}
+
+h4 {
+	font-weight: bold;
+}
+body
+	{
+		background-image: url(main.jpg);
+		 background-repeat: no-repeat;
+  			background-attachment: fixed; 
+  			background-size: 100% 100%;
+
+	}

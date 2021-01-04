@@ -1,0 +1,24 @@
+	body
+	{
+		background-image: url(main.jpg);
+		 background-repeat: no-repeat;
+  			background-attachment: fixed; 
+  			background-size: 100% 100%;
+
+	}
+.login-box{
+	max-width: 700px;
+	float:none;
+	margin:150px auto;
+}
+.login-left{
+	background:rgba(153,204,255,0.3);
+	padding:30px;
+}
+.login-right{
+	background:rgba(153,204,255,0.8);
+	padding:30px;
+}
+.form-control{
+	background-color: transparent !important;
+}

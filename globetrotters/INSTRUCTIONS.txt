@@ -1,0 +1,4 @@
+->Unzip all the files in htdocs
+->Turn on xampp control and start apache &mysql
+->open airline2 sql file and import in your database
+->open front.html in your localhost
